@@ -86,13 +86,10 @@ class BackEnd {
 
 <div align="center">
   <a href="https://github.com/NickNameYouTuber/NI-Metro">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NickNameYouTuber&repo=NI-Metro&theme=tokyonight&hide_border=true" />
-    <p>🚇 NI-Metro: Система управления метрополитеном с использованием Java и Spring Boot.</p>
-  </a>
-  <a href="https://github.com/NickNameYouTuber/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NickNameYouTuber&repo=project2&theme=tokyonight&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NickNameYouTuber&repo=NI-Metro&theme=tokyonight&hide_border=true&description=🚇 All world metro maps in one app. Features offline maps, route planning, and AR navigation for 200+ cities worldwide." />
   </a>
 </div>
+
 
 <h2>📈 Активность</h2>
 
