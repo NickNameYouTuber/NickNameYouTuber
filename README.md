@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&center=true&vCenter=true&width=435&lines=Java+Developer;Full+Stack+Developer;Always+learning+new+things;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,25 +16,38 @@
 
 <h2>🚀 О себе</h2>
 
-```javascript
-const NickNameYouTuber = {
-    code: ["JavaScript", "Python", "Java", "TypeScript"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Next.js"],
-            css: ["Tailwind", "Bootstrap", "SASS"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            python: ["Django", "FastAPI"],
-            databases: ["MongoDB", "PostgreSQL"]
-        },
-        devOps: ["AWS", "Docker", "Kubernetes"],
-        mobile: ["React Native"]
-    },
-    currentFocus: "Создание масштабируемых full-stack приложений",
-    funFact: "Баги - это не ошибки, а незадокументированные функции 😅"
-};
+```java
+public class NickNameYouTuber {
+    public static void main(String[] args) {
+        String[] code = {"Java", "Python", "Kotlin", "JavaScript", "C#"};
+        Technologies technologies = new Technologies();
+        technologies.frontEnd = new FrontEnd();
+        technologies.backEnd = new BackEnd();
+        technologies.devOps = new String[]{"AWS", "Docker", "Kubernetes"};
+        technologies.mobile = new String[]{"Android"};
+
+        System.out.println("Current Focus: Создание масштабируемых full-stack приложений");
+        System.out.println("Fun Fact: Баги - это не ошибки, а незадокументированные функции 😅");
+    }
+}
+
+class Technologies {
+    FrontEnd frontEnd;
+    BackEnd backEnd;
+    String[] devOps;
+    String[] mobile;
+}
+
+class FrontEnd {
+    String[] js = {"React", "Vue", "Next.js"};
+    String[] css = {"Tailwind", "Bootstrap", "SASS"};
+}
+
+class BackEnd {
+    String[] java = {"Spring", "Spring Boot"};
+    String[] python = {"Django", "FastAPI"};
+    String[] databases = {"PostgreSQL", "MySQL", "MongoDB"};
+}
 ```
 
 <h2>📊 GitHub Статистика</h2>
@@ -52,14 +65,18 @@ const NickNameYouTuber = {
 
 <div align="center">
   
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
@@ -87,7 +104,7 @@ const NickNameYouTuber = {
 - 🚀 Разработать и запустить 3 масштабных проекта
 - 📚 Освоить архитектуру микросервисов
 - 💡 Внести вклад в крупные open-source проекты
-- 📱 Создать мобильное приложение на React Native
+- 📱 Создать мобильное приложение на Android
 - 🎓 Получить AWS сертификацию
 
 <h2>📫 Связаться со мной</h2>
