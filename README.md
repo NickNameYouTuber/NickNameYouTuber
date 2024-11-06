@@ -14,11 +14,11 @@
 - **Облачные сервисы:** Firebase, Heroku, AWS
 
 ### 📈 Статистика:
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ваш_никнейм&show_icons=true&theme=radical&count_private=true)
-![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_никнейм&layout=compact&theme=radical)
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=NickNameYouTuber&show_icons=true&theme=radical&count_private=true)
+![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=NickNameYouTuber&layout=compact&theme=radical)
 
 ### 🌐 Социальные сети:
-- [Telegram](https://t.me/ваш_ник) 💬
+- [Telegram](https://t.me/qulines) 💬
 - [LinkedIn](https://www.linkedin.com/in/ваш_профиль) 💼
 - [Портфолио](https://ваш-сайт.ком) 🌍
 
