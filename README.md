@@ -85,8 +85,8 @@ class BackEnd {
 <h2>🌟 Избранные проекты</h2>
 
 <div align="center">
-  <a href="https://github.com/NickNameYouTuber/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NickNameYouTuber&repo=project1&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/NickNameYouTuber/NI-Metro">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NickNameYouTuber&repo=NI-Metro&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/NickNameYouTuber/project2">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NickNameYouTuber&repo=project2&theme=tokyonight&hide_border=true" />
