@@ -86,7 +86,7 @@ class BackEnd {
 
 <div align="center">
   <a href="https://github.com/NickNameYouTuber/NI-Metro">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NickNameYouTuber&repo=NI-Metro&theme=tokyonight&hide_border=true&description=🚇 All world metro maps in one app. Features offline maps, route planning, and AR navigation for 200+ cities worldwide." />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NickNameYouTuber&repo=NI-Metro&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
