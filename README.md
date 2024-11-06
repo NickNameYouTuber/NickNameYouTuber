@@ -1,26 +1,42 @@
-# Привет, я Ник! 👋
+# 👋 Привет, я Ник!
 
-### 👨‍💻 О себе:
-- 💼 Работаю над Android-приложениями, веб-сайтами и чат-ботами.
-- 💡 Люблю изучать новые технологии и улучшать проекты.
-- 🌱 Сейчас изучаю **Spring** для бэкенд-разработки и углубляюсь в **React** для создания современных интерфейсов.
-- 🎨 Увлекаюсь UI/UX дизайном, создаю простые и удобные интерфейсы.
+## 👨‍💻 О себе
+Я разработчик с страстью к созданию качественного кода и решению сложных задач. Моя цель - создавать продукты, которые делают жизнь людей лучше.
 
-### 🛠️ Используемые технологии:
-- **Языки:** Java, Kotlin, Python, JavaScript, SQL
-- **Фреймворки и библиотеки:** Spring, React, Flask, Telegram Bot API
-- **Инструменты:** Git, Docker, Postman, Figma
-- **Базы данных:** MySQL, SQLite
-- **Облачные сервисы:** Firebase, Heroku, AWS
+### 🛠️ Мой стек технологий:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 📈 Статистика:
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=NickNameYouTuber&show_icons=true&theme=radical&count_private=true)
-![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=NickNameYouTuber&layout=compact&theme=radical)
+### 📊 Моя GitHub статистика:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NickNameYouTuber&show_icons=true&theme=radical)
 
-### 🌐 Социальные сети:
-- [Telegram](https://t.me/qulines) 💬
-- [LinkedIn](https://www.linkedin.com/in/ваш_профиль) 💼
-- [Портфолио](https://ваш-сайт.ком) 🌍
+### 💻 Топ используемых языков:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickNameYouTuber&layout=compact&theme=radical)
 
-### 📫 Как связаться:
-- **Email:** ваш_email@домен.com
+### 🏆 GitHub трофеи:
+![Trophy](https://github-profile-trophy.vercel.app/?username=NickNameYouTuber&theme=radical)
+
+### 📈 Активность:
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=NickNameYouTuber&theme=radical)
+
+## 🌟 Избранные проекты
+- [Название проекта](ссылка) - Краткое описание
+- [Название проекта](ссылка) - Краткое описание
+- [Название проекта](ссылка) - Краткое описание
+
+## 📫 Как со мной связаться:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](YOUR_TELEGRAM_URL)
+
+### 🎯 Цели на 2024:
+- [ ] Внести вклад в 5 open-source проектов
+- [ ] Изучить новую технологию
+- [ ] Создать собственный значимый проект
+- [ ] Улучшить навыки в текущем стеке
+
+---
+⭐️ От [ваше_имя](https://github.com/NickNameYouTuber)
