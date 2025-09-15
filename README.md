@@ -1,54 +1,6 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  Привет, я NickNameYouTuber!
-</h1>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&center=true&vCenter=true&width=435&lines=Java+Developer;Full+Stack+Developer;Always+learning+new+things;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="mee.svg" alt="Typing SVG" />
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NickNameYouTuber&style=flat-square&color=blue" alt="Profile Views"/>
-  <a href="https://github.com/NickNameYouTuber?tab=followers">
-    <img src="https://img.shields.io/github/followers/NickNameYouTuber?label=Followers&style=social" alt="GitHub Badge">
-  </a>
-</div>
-
-<h2>🚀 О себе</h2>
-
-```java
-public class NickNameYouTuber {
-    public static void main(String[] args) {
-        String[] code = {"Java", "Python", "Kotlin", "JavaScript", "C#"};
-        Technologies technologies = new Technologies();
-        technologies.frontEnd = new FrontEnd();
-        technologies.backEnd = new BackEnd();
-        technologies.devOps = new String[]{"AWS", "Docker", "Kubernetes"};
-        technologies.mobile = new String[]{"Android"};
-
-        System.out.println("Current Focus: Создание масштабируемых full-stack приложений");
-        System.out.println("Fun Fact: Баги - это не ошибки, а незадокументированные функции 😅");
-    }
-}
-
-class Technologies {
-    FrontEnd frontEnd;
-    BackEnd backEnd;
-    String[] devOps;
-    String[] mobile;
-}
-
-class FrontEnd {
-    String[] js = {"React", "Vue", "Next.js"};
-    String[] css = {"Tailwind", "Bootstrap", "SASS"};
-}
-
-class BackEnd {
-    String[] java = {"Spring", "Spring Boot"};
-    String[] python = {"Django", "FastAPI"};
-    String[] databases = {"PostgreSQL", "MySQL", "MongoDB"};
-}
-```
 
 <h2>📊 GitHub Статистика</h2>
 
