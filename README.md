@@ -2,36 +2,13 @@
   <img src="mee.svg" alt="Typing SVG" />
 </div>
 
-<h2>📊 GitHub Статистика</h2>
-
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=NickNameYouTuber&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+  <img src="streak.svg" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NickNameYouTuber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickNameYouTuber&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-</div>
-
-<h2>🛠️ Технологии и Инструменты</h2>
-
-<div align="center">
-  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
+  <img height="230em" src="stats.svg" alt="GitHub Stats" />
+  <img height="230em" src="language.svg" alt="Top Languages" />
 </div>
 
 <h2>🌟 Избранные проекты</h2>
@@ -42,20 +19,9 @@
   </a>
 </div>
 
-
-<h2>📈 Активность</h2>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NickNameYouTuber&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="activity.svg" alt="Contribution Graph" />
 </div>
-
-<h2>🎯 Цели на 2024</h2>
-
-- 🚀 Разработать и запустить 3 масштабных проекта
-- 📚 Освоить архитектуру микросервисов
-- 💡 Внести вклад в крупные open-source проекты
-- 📱 Создать мобильное приложение на Android
-- 🎓 Получить AWS сертификацию
 
 <h2>📫 Связаться со мной</h2>
 
