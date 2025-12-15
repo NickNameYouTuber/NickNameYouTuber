@@ -27,15 +27,20 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](YOUR_TWITTER_URL)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](YOUR_TELEGRAM_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](YOUR_PORTFOLIO_URL)
+  <a href="https://linkedin.com/in/username">
+    <img src="linkedin.svg" alt="LinkedIn" />
+  </a>
 
-</div>
+  <a href="https://twitter.com/username">
+    <img src="twitter.svg" alt="Twitter" />
+  </a>
 
-<br>
+  <a href="https://t.me/username">
+    <img src="telegram.svg" alt="Telegram" />
+  </a>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <a href="https://nicorp.tech">
+    <img src="portfolio.svg" alt="Portfolio" />
+  </a>
+
 </div>
