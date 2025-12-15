@@ -19,8 +19,6 @@
   <img src="activity.svg" alt="Contribution Graph" />
 </div>
 
-<h2>📫 Связаться со мной</h2>
-
 <div align="center">
   
   <a href="https://linkedin.com/in/username">
@@ -39,10 +37,4 @@
     <img src="portfolio.svg" alt="Portfolio" />
   </a>
 
-</div>
-
-<h2>📫 Связаться со мной</h2>
-
-<div align="center">
-  <img src="contact-card.svg" alt="Contact Me" width="600" />
 </div>
