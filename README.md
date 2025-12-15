@@ -11,12 +11,8 @@
   <img height="230em" src="language.svg" alt="Top Languages" />
 </div>
 
-<h2>🌟 Избранные проекты</h2>
-
 <div align="center">
-  <a href="https://github.com/NickNameYouTuber/NI-Metro">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NickNameYouTuber&repo=NI-Metro&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="tech.svg" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
