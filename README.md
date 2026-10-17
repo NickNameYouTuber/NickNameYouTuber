@@ -14,11 +14,11 @@
 
 <a href="https://nicorp.tech/projects.html"><img src="https://nicorp.tech/github/projects.svg" width="100%" alt="Featured Projects"></a>
 
-<a href="https://nicorp.tech/github/p/1.html"><img src="https://nicorp.tech/github/project-1.svg" width="49%" alt="NIGames"></a>
-<a href="https://nicorp.tech/github/p/2.html"><img src="https://nicorp.tech/github/project-2.svg" width="49%" alt="Klee"></a>
-<a href="https://nicorp.tech/github/p/3.html"><img src="https://nicorp.tech/github/project-3.svg" width="49%" alt="NIID"></a>
-<a href="https://nicorp.tech/github/p/4.html"><img src="https://nicorp.tech/github/project-4.svg" width="49%" alt="NUI"></a>
-<a href="https://nicorp.tech/github/p/5.html"><img src="https://nicorp.tech/github/project-5.svg" width="49%" alt="NI Mail"></a>
+<a href="https://nicorp.tech/github/p/1.html"><img src="https://nicorp.tech/github/project-1.svg" width="49%" alt="NIOS"></a>
+<a href="https://nicorp.tech/github/p/2.html"><img src="https://nicorp.tech/github/project-2.svg" width="49%" alt="NIHub"></a>
+<a href="https://nicorp.tech/github/p/3.html"><img src="https://nicorp.tech/github/project-3.svg" width="49%" alt="Klee"></a>
+<a href="https://nicorp.tech/github/p/4.html"><img src="https://nicorp.tech/github/project-4.svg" width="49%" alt="NIGames"></a>
+<a href="https://nicorp.tech/github/p/5.html"><img src="https://nicorp.tech/github/project-5.svg" width="49%" alt="NIID"></a>
 <a href="https://nicorp.tech/github/p/6.html"><img src="https://nicorp.tech/github/project-6.svg" width="49%" alt="NITransport"></a>
 
 <a href="https://t.me/QuLines"><img src="https://nicorp.tech/github/contact.svg" width="100%" alt="Awesome Together. Telegram"></a>
