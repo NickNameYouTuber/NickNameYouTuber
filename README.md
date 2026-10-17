@@ -1,40 +1,26 @@
+<!-- Картинки отдаёт сайт: https://nicorp.tech/github/. Чтобы обновить профиль, пересоберите их на сайте
+     (py -3 tools/github-cards/build.py) и выкатите сайт; этот файл менять не нужно. -->
 <div align="center">
-  <img src="mee.svg" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="streak.svg" alt="GitHub Streak Stats" />
-</div>
+<a href="https://nicorp.tech"><img src="https://nicorp.tech/github/hero.svg" width="100%" alt="NICorp: I Build Bold Things On The Web"></a>
 
-<div align="center">
-  <img height="230em" src="stats.svg" alt="GitHub Stats" />
-  <img height="230em" src="language.svg" alt="Top Languages" />
-</div>
+<a href="https://nicorp.tech/projects.html"><img src="https://nicorp.tech/github/btn-projects.svg" height="58" alt="View Projects"></a>
+<a href="https://nicorp.tech/about.html"><img src="https://nicorp.tech/github/btn-about.svg" height="58" alt="About Me"></a>
+<a href="https://t.me/QuLines"><img src="https://nicorp.tech/github/btn-telegram.svg" height="58" alt="Telegram"></a>
 
-<div align="center">
-  <img src="tech.svg" alt="GitHub Streak Stats" />
-</div>
+<a href="https://nicorp.tech/about.html"><img src="https://nicorp.tech/github/about.svg" width="100%" alt="NICorp is a personal engineering studio for fast web products, developer tools, AI experiments, and interfaces with a strong visual edge."></a>
 
-<div align="center">
-  <img src="activity.svg" alt="Contribution Graph" />
-</div>
+<img src="https://nicorp.tech/github/stack.svg" width="100%" alt="Stack: TypeScript, React, Node.js, Python, FastAPI, Android, AI, UI Systems">
 
-<div align="center">
-  
-  <a href="https://linkedin.com/in/username">
-    <img src="linkedin.svg" alt="LinkedIn" />
-  </a>
+<a href="https://nicorp.tech/projects.html"><img src="https://nicorp.tech/github/projects.svg" width="100%" alt="Featured Projects"></a>
 
-  <a href="https://twitter.com/username">
-    <img src="twitter.svg" alt="Twitter" />
-  </a>
+<a href="https://nicorp.tech/github/p/1.html"><img src="https://nicorp.tech/github/project-1.svg" width="49%" alt="NIGames"></a>
+<a href="https://nicorp.tech/github/p/2.html"><img src="https://nicorp.tech/github/project-2.svg" width="49%" alt="Klee"></a>
+<a href="https://nicorp.tech/github/p/3.html"><img src="https://nicorp.tech/github/project-3.svg" width="49%" alt="NIID"></a>
+<a href="https://nicorp.tech/github/p/4.html"><img src="https://nicorp.tech/github/project-4.svg" width="49%" alt="NUI"></a>
+<a href="https://nicorp.tech/github/p/5.html"><img src="https://nicorp.tech/github/project-5.svg" width="49%" alt="NI Mail"></a>
+<a href="https://nicorp.tech/github/p/6.html"><img src="https://nicorp.tech/github/project-6.svg" width="49%" alt="NITransport"></a>
 
-  <a href="https://t.me/username">
-    <img src="telegram.svg" alt="Telegram" />
-  </a>
-
-  <a href="https://nicorp.tech">
-    <img src="portfolio.svg" alt="Portfolio" />
-  </a>
+<a href="https://t.me/QuLines"><img src="https://nicorp.tech/github/contact.svg" width="100%" alt="Awesome Together. Telegram"></a>
 
 </div>
